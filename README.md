@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Miguel Sarabia
 
-<!--
-**miguelsarabia-dev/miguelsarabia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | .NET & React | Passionate about building clean, scalable systems  
+🌐 I love using technology to solve real-world problems and help businesses grow
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- 🧠 Languages: `C#`, `JavaScript`, `SQL`, `PHP`
+- 💼 Frameworks: `.NET`, `Entity Framework`, `React`, `Bootstrap`
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **Facilísimo** | Educational platform where students submit questions and receive personalized answers through Google Meet sessions scheduled by teachers. | PHP + Google API |
+
+
+---
+
+## 📫 Contact
+
+- ✉️ dev@miguelsarabia.dev  
+
+---
+> *"Your code reflects your discipline."*
+
