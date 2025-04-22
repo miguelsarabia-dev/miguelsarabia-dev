@@ -16,7 +16,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **Facilísimo** | Educational platform where students submit questions and receive personalized answers through Google Meet sessions scheduled by teachers. | PHP + Google API |
+| [Facilisimo](https://github.com/miguelsarabia-dev/facilisimo)  | Educational platform where students submit questions and receive personalized answers through Google Meet sessions scheduled by teachers. | PHP + Google API |
 
 
 ---
